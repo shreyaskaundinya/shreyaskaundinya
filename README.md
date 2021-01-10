@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm Shreyas Kaundinya, if you still can't infer from my username.
+I'm currently studying Computer Science.
+I’m currently learning React, React Hooks.
 
 <!--
 **shreyaskaundinya/shreyaskaundinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
