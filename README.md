@@ -2,8 +2,10 @@
 
 ## 🎙️ `Introduction`
 
-<font size="3">I'm Shreyas Kaundinya. I'm an aspiring UI-UX Engineer/ Full Stack
-Developer and musician based in Bengaluru, Karnataka, India. </font> <br/>
+I'm Shreyas Kaundinya. I'm an aspiring UI-UX Engineer/ Full Stack Developer and
+musician based in Bengaluru, Karnataka, India.
+
+<br/>
 
 ## 🔗 `Links`
 
@@ -74,7 +76,7 @@ Disclaimer : Portfolio Still Under Development.
 
 [![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyaskaundinya&theme=chartreuse-dark&show_icons=1&count_private=true)](https://github.com/shreyaskaundinya/github-readme-stats)
 
-## `Top Languages`
+## ⏫ `Top Languages`
 
 <br/>
 
