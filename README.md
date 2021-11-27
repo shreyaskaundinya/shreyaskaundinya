@@ -2,15 +2,10 @@
 
 ## 🎙️ `Introduction`
 
----
-
-### `I'm Shreyas Kaundinya. I'm an aspiring UI-UX Engineer/ Full Stack Developer and musician based in Bengaluru, Karnataka, India.`
-
-<br/>
+<font size="3">I'm Shreyas Kaundinya. I'm an aspiring UI-UX Engineer/ Full Stack
+Developer and musician based in Bengaluru, Karnataka, India. </font> <br/>
 
 ## 🔗 `Links`
-
----
 
 [![PORTFOLIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shreyaskaundinya.tech)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyassk08@gmail.com)
@@ -21,8 +16,6 @@ Disclaimer : Portfolio Still Under Development.
 <br/>
 
 ## 📚 `Languages`
-
----
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,8 +30,6 @@ Disclaimer : Portfolio Still Under Development.
 
 ## ♥️ `Frameworks || Libraries`
 
----
-
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![SOCKET.IO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
@@ -51,8 +42,6 @@ Disclaimer : Portfolio Still Under Development.
 
 ## 🔑 `Databases`
 
----
-
 ![MONGODB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -63,8 +52,6 @@ Disclaimer : Portfolio Still Under Development.
 
 ## 🔧 `Tools`
 
----
-
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![DIGITALOCEAN](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -73,8 +60,6 @@ Disclaimer : Portfolio Still Under Development.
 <br/>
 
 ## 👨‍💻 `Learning`
-
----
 
 ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![THREEJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
@@ -85,15 +70,11 @@ Disclaimer : Portfolio Still Under Development.
 
 ## 🏆 `Github Stats`
 
----
-
 <br/>
 
 [![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyaskaundinya&theme=chartreuse-dark&show_icons=1&count_private=true)](https://github.com/shreyaskaundinya/github-readme-stats)
 
 ## `Top Languages`
-
----
 
 <br/>
 
